@@ -12,8 +12,9 @@ body {
     justify-content: center;
     align-items: center;
     min-height: 100vh;
-    background-color: #b0ce2d;
+    background-color: #9bf4fc;
     font-family: Arial, sans-serif;
+
 }
 .display {
     width: 320px;
